@@ -1,5 +1,5 @@
 {
-    "name": "appstract/laravel-opcache",
+    "name": "bourne/laravel-opcache",
     "description": "PHP OPcache Artisan commands for Laravel.",
     "keywords": [
         "appstract",
